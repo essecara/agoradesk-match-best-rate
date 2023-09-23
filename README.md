@@ -13,8 +13,9 @@ see: https://imgur.com/a/6wbYiQi
 **notes:**
 
  1. *limit* if > 1, fixed priced is used as the lowest amount possible that is obeyed
- 2. *margin* is basically a percentage in that other format ... 5% = 1.05 .. 
+ 2. *margin* is basically a percentage in that other format ... 5% = 1.05 .... if you use this, you may only use XMR/EUR rate from kraken .. 
  3. *skip_ads*  - if you wanna exclude some ads from price match ( eg. your other ads with even lower rate )
+
 
     {
     	"ad": "your advertisement id",
