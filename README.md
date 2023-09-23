@@ -16,7 +16,7 @@ see: https://imgur.com/a/6wbYiQi
  2. *margin* is basically a percentage in that other format ... 5% = 1.05 .... if you use this, you may only use XMR/EUR rate from kraken .. 
  3. *skip_ads*  - if you wanna exclude some ads from price match ( eg. your other ads with even lower rate )
 
-
+```
     {
     	"ad": "your advertisement id",
     	"apikey": "your api key",
@@ -29,7 +29,7 @@ see: https://imgur.com/a/6wbYiQi
     		"ad2_id"
     	]
     }
-
+```
 
 ## how to compile & run
 rustc & cargo recommended
